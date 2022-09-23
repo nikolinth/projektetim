@@ -1,2 +1,2 @@
-# projektetim
-Pprojekte ne gjuhet C#,SWIFT etj.
+# projekt-im
+projekte ne gjuhet C#,SWIFT etj.
