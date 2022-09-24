@@ -1,2 +1,2 @@
 # projekti-im
-projekte ne gjuhet C#,SWIFT etj.
+projekte ne gjuhet C++, C#, SWIFT etj.
